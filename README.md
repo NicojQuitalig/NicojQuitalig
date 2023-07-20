@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NicojQuitalig
 - 👀 I’m interested in new project
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning JAVA, DART, C#, C++ and HTML
+- 💞️ I’m looking to collaborate on new project
+
 
 <!---
 NicojQuitalig/NicojQuitalig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
